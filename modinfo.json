@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "construct_the_nut",
+    "name": "construct_the_nut",
+    "authors": [ "ERROR_CODE" ],
+    "description": "Home is where the [PINE NUT] is.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
